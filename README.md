@@ -2,7 +2,7 @@
 
 Oilwell Placement Solutions in OilyGiant Petroleum Company
 
-The project assigned to me during the ninth sprint involves Machine Learning within the domain of Business.
+The project assigned to me during the ninth sprint involves Machine Learning within the Business domain.
 
 Throughout this sprint, I acquired expertise in identifying essential business metrics, orchestrating A/B testing, employ bootstrapping methodologies, and data annotation.
 
